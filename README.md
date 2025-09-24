@@ -7,7 +7,7 @@ Let's create a website for *Water Supply Management*.
 2. *About*: Information about the organization, mission, and team.
 3. *Contact*: Contact form and contact information.
 
-*Home Page:*
+#*Home Page:*
 
 - Header with logo and navigation menu
 - Hero image or video showcasing water supply management
@@ -15,14 +15,14 @@ Let's create a website for *Water Supply Management*.
 - Call-to-action (CTA) button to encourage visitors to learn more or contact us
 - Footer with social media links and copyright information
 
-*About Page:*
+#*About Page:*
 
 - Header with logo and navigation menu
 - Page title and introduction to the organization's mission
 - Team section with photos and brief bios
 - Footer with social media links and copyright information
 
-*Contact Page:*
+#*Contact Page:*
 
 - Header with logo and navigation menu
 - Page title and contact form
